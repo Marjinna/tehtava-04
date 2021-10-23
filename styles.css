@@ -1,0 +1,89 @@
+body {
+  background-image: url("wowbackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+    background-color: black;
+    color: white;
+  }
+.myDiv {
+  border: 2px outset red;
+  margin: auto;
+  margin-top: 2%;
+  border-style: dotted;
+  background-color: lightblue;    
+  text-align: center;
+  padding: 15px;
+  width: 600px;
+  height: 60px;
+  }
+  h1 {
+    color: lightgoldenrodyellow;
+    margin: auto;
+    margin-top: 2%;
+    font-size: 20px;
+    text-align: center;
+    border: 4px solid blue;
+    width: 220px;
+    height: 80px;
+  }
+  h2 {
+    color: burlywood;
+    margin: auto;
+    margin-top: 2%;
+    text-align: center;
+    font-size: 40px;
+    border: 8px dotted brown;
+    width: 200px;
+    height: 80px;
+  }
+  p {
+  color: green;
+  text-align: center;
+  margin: auto;
+  margin-top: 2%;
+  background-color: yellow;
+  width: 300px;
+  border: 3px;
+  border-style: ridge;
+  border-color: turquoise;
+  font-size: 18px;
+  } 
+  .one{
+    color: firebrick;
+    margin-left: 2%;
+    margin-top: 2%;
+    background-color: yellowgreen;
+    width: 300px;
+    border: 3px;
+    border-style: ridge;
+    border-color: turquoise;
+    font-size: 18px;
+    }   
+  .two{
+    color: gold;
+    margin-left: 2%;
+    margin-top: 2%;
+    background-color: blue;
+    width: 300px;
+    border: 3px;
+    border-style: ridge;
+    border-color: turquoise;
+    font-size: 18px;
+    }  
+  img {
+    margin-top: 2%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  progress[value] {
+    width: 400px;
+    height: 25px;
+    margin: auto;
+  }
+  ol.a {
+  list-style-type: upper-alpha;
+  } 
+  ul.a {
+  list-style-type: square;
+  }
